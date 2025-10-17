@@ -28,9 +28,7 @@
 ---
 
 ### 🏆 GitHub Stats
-![Revanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevanthKumarYallanuru&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RevanthKumarYallanuru&theme=radical&hide_border=false)
+![Revanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevanthKumarYallanuru&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=RevanthKumarYallanuru&theme=radical&hide_border=false)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RevanthKumarYallanuru&theme=radical)
